@@ -1,8 +1,8 @@
-# Login Form - Formulário de Login
+## Login Form - Formulário de Login
 Uma página criada na disciplina de Desenvolvimento Web do curso de Engenharia de Software
 
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php,javascript,html,css,bootstrap,github,git" />
 </div>
