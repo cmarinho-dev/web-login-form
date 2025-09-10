@@ -1,3 +1,6 @@
+const form = document.forms['login-form'];
+form.action = '../Back.php';
+
 document.getElementById("bt-send-form").addEventListener(
     'click', function() {
         signIn();
