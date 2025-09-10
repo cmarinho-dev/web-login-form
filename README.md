@@ -6,4 +6,4 @@
 
 
 ## Preview da página
-[LINK: Github Pages](https://cmarinho-dev.github.io/web-login-form/)
+[LINK: Github Pages](https://cmarinho-dev.github.io/web-login-form/app/view)
